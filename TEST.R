@@ -1,2 +1,6 @@
 #Hello world
 #From another repository
+
+x <- 1+1
+y <- 2+2
+z <- 5+5
